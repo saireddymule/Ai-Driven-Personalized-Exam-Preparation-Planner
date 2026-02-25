@@ -393,4 +393,5 @@ elif st.session_state.page == "Progress Tracker":
     progress_tracker_page()
 
 elif st.session_state.page == "Analytics":
+
     analytics_page()
